@@ -3,7 +3,7 @@ Casual game.
 
 Used musics:
 
-vampire-killer-castlevania-the-dracula-x-chronicles  
+vampire-killer-castlevania-the-dracula-x-chronicles
 https://www.kisa.link/OYh6
 
 red-dawn-castlevania-the-dracula-x-chronicles
