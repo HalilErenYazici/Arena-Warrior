@@ -1,5 +1,5 @@
 # Arena-Warrior
-Casual game.
+High Score Based Game.
 
 Used musics:
 
