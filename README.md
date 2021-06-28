@@ -1,6 +1,9 @@
 # Arena-Warrior
 High Score Based Game.
 
+Short Gameplay: 
+https://www.kisa.link/P4C5 
+
 Used musics:
 
 vampire-killer-castlevania-the-dracula-x-chronicles
